@@ -1,2 +1,3 @@
 # edurekapyari
-this is new rep
+this is new repository
+this is my first commit
